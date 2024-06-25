@@ -30,10 +30,14 @@ https://v2.jokeapi.dev/joke/Any
 For more details, visit the [JokeAPI documentation]([url](https://v2.jokeapi.dev/)
 ).
 
-![photo_2024-06-25_01-23-39](https://github.com/FARAD56/Flutter-interview/assets/99828747/8b7e583d-9b17-45d6-bf0f-88d006f56bc6)
-![photo_2024-06-25_01-12-13](https://github.com/FARAD56/Flutter-interview/assets/99828747/92be24d3-bb66-44c5-9f57-819c54c516a6)
+
+#Images
+
+
+![photo_2024-06-25_01-12-13](https://github.com/FARAD56/core_dev_interview/assets/99828747/07726832-ed28-4d43-b305-a3155b1f7034)
 
 
 
+![photo_2024-06-25_01-23-39](https://github.com/FARAD56/core_dev_interview/assets/99828747/5103ebc1-6c65-4f17-a3f5-3c91b6a0ab60)
 
 
